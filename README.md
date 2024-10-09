@@ -1,6 +1,6 @@
 The official implementation of "GridVPR: Grid Cell Inspired Visual Place Recognition." In this paper, we propose a grid cell-inspired localization neural network. Our method performs multi-scale, rotation-invariant, and translation-invariant geo-features aggregation. It improves the rigid baseline work and achieves a better performance than the baseline work.
 
-![github.png](C:\Users\Administrator\Desktop\类脑计算\github\github.png)
+![github](https://github.com/user-attachments/assets/92d7dfc3-b9b1-4ca2-8cad-193828cbe9be)
 
 This figure illustrates the core ideas of the GridVPR. We drew inspiration from the grid cell's spacing encoding method to partition the actual geographical spacing. And our work has demonstrated its effectiveness.
 
@@ -23,7 +23,7 @@ After that, you will receive information about the groups and classes to which e
 
 Their settings are as follows:
 
-![](C:\Users\Administrator\AppData\Roaming\marktext\images\2024-10-09-16-42-31-image.png)
+![image](https://github.com/user-attachments/assets/3b02dfff-20ae-4625-b4e0-616a4357ee09)
 
 ### Training
 
