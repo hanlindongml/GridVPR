@@ -23,7 +23,7 @@ After that, you will receive information about the groups and classes to which e
 
 Their settings are as follows:
 
-![image](https://github.com/user-attachments/assets/3b02dfff-20ae-4625-b4e0-616a4357ee09)
+<img src="https://github.com/user-attachments/assets/3b02dfff-20ae-4625-b4e0-616a4357ee09" width="400"/>
 
 ### Training
 
@@ -33,7 +33,7 @@ You can also use "--" to control the argument setting. Running `python train.py 
 
 # Test
 
-You can use the `python eval.py --resume_model path_of_trained_model` command to test on the SF-XL dataset. The network setting is same to the training. For the other dataset, we recomend you to follow [this work]([GitHub - gmberton/VPR-datasets-downloader: Automatic download VPR datasets in a standard format](https://github.com/gmberton/VPR-datasets-downloader)) to download them and replace the dataset path. We also provide our trained model as follows:
+You can use the `python eval.py --resume_model path_of_trained_model` command to test on the SF-XL dataset. The network setting is same to the training. For the other dataset, we recomend you to follow [this work](https://github.com/gmberton/VPR-datasets-downloader) to download them and replace the dataset path. We also provide our trained model as follows:
 
 ### Traind Model
 
@@ -48,4 +48,4 @@ If you have any questions about our work or the implementation, please feel free
 
 # Acknowledgement
 
-Some of the code is reused from [CosPlace]([GitHub - gmberton/CosPlace: Official code for CVPR 2022 paper &quot;Rethinking Visual Geo-localization for Large-Scale Applications&quot;](https://github.com/gmberton/CosPlace)). You can also find the way to download the SF-XL dataset through this link. Thanks for their great work.
+Some of the code is reused from [CosPlace](https://github.com/gmberton/CosPlace). You can also find the way to download the SF-XL dataset through this link. Thanks for their great work.
