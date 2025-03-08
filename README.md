@@ -1,6 +1,6 @@
 The official implementation of "GridVPR: Grid Cell Inspired Visual Place Recognition." In this paper, we proposed a grid cell-inspired VPR method. Our method achieves flexible and effective label assignment. It improves the baseline work and achieves higher data utilization and better performance.
 
-![mapping](https://github.com/user-attachments/assets/70fc3f4a-e561-43d2-a48d-c3e990c88731)
+![mapping](https://github.com/user-attachments/assets/44e95c62-28a4-4096-a00a-bb8199d6294c)
 
 This figure shows the mapping from a grid cell to the real-world geographic space, illustrating the core ideas of the GridVPR. 
 
